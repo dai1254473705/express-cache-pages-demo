@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/dai1254473705/express-cache-pages#readme",
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   },
   "contributors": [
     {
